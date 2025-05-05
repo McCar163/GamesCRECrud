@@ -1,0 +1,64 @@
+body {
+    background-color: white;
+    font-family: sans-serif;
+}
+
+hr {  
+            height: 4px;  
+            background-color: red;  
+            border: none;  
+        }  
+
+title {
+    font-family: serif;
+}
+
+h3 {
+    color: red;
+}
+
+h2 {
+    text-decoration-line: underline;
+    color: red;
+}
+
+h1 {
+    color: red;
+}
+
+ 
+
+a:link {
+    color: red;
+    text-decoration: none;
+}
+
+a:visited {
+    color: darkred;
+    text-decoration: none;
+}
+
+a:hover {
+    color: orange;
+    text-decoration: underline;
+}
+
+a:active {
+    color: red;
+    text-decoration: none;
+}
+
+ 
+
+ 
+
+img {
+    border-radius: 4px;
+    height: auto;
+    max-width: 100%
+    
+}
+
+ 
+
+ 
