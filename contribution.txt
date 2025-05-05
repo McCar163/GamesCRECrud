@@ -1,0 +1,4 @@
+Contribution Statement
+Ryan - Main Crud features. 50% project.
+Cian - Main Crud features. 25% project.
+Emmanuel - Website/css. 25% project.
